@@ -1,3 +1,6 @@
-n = int(input("Cuantas elementos desea agreagar en la lista? "))
+lista =  ['Di', 'buen', 'día', 'a', 'papa']
 
+lista.reverse()
+
+print(lista)
 
